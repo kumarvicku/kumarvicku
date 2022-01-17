@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @kumarvicku
-- 👀 I’m interested in coding and learn new things. 
-- 🌱 I’m currently learning github, and c, C++, and java languages. 
-- 💞️ I’m looking to collaborate on new project for beginners. 
-- 📫 How to reach me - you can message me on my telegram
-     Id - @v_for_vicku.
-     Or email -10kumarvicku@gmail.com
+- 👋 Hi, 𝙸'𝚖 𝚔𝚞𝚖𝚊𝚛𝚟𝚒𝚌𝚔𝚞
 
 <!---
  is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
