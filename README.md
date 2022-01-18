@@ -1,16 +1,33 @@
 ![Capture](https://user-images.githubusercontent.com/84949946/149785526-5a5fec37-dc58-49db-8883-ada14f0a9cd1.jpg)
 
-<p1>
-<h1 align="center">Hi visitor,🅸🆃'🆂 🅺🆄🅼🅰🆁 🆅🅸🅲🅺🆄!</h1><sub><b><i>💻 I'm a Student  but passionate in programming</i></b>
- </p2>
+
+<pre><h1 align="center">🅷🅸 🆅🅸🆂🅸🆃🅾🆁 , 🅸🆃'🆂 🅺🆄🅼🅰🆁 🆅🅸🅲🅺🆄!
+                              <sub><b><i>💻 A Student but passionate in programming.</i></b></h1></sub></pre>
  
-<p2 align="center"><a href="https://github.com/kumarvicku">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kumarvicku&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/kumarvicku"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarvicku&layout=compact&theme=react&hide_border=true" />
-</a></p2>
+<h2 align="center"><u>My Github Stats</u></h2>
+<p align="center">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=kumarvicku&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">	
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarvicku&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite&langs_count=10&exclude_repo=kasweb,supremeFolio">
 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumarvicku&theme=dracula">
 
+</p>
+
+<h1 align="center"><u>🅿🅴🆁🆂🅾🅽🅰🅻  🅳🅴🆃🅰🅸🅻🆂</u></h1>
+<li> 🇮🇳<i>Proud to be an <b>Indian</b></i></li>
+<li> 😇 <i>Hindu</i></li>
+<li> 😐 <i>Studying at IGNOU</i></li>
+<li> 😪 <i>Love Sleeping,Music listening,Reading Novels,Cooking.</i></li>
+<li> 💔 <i>Born Single</i></li>
+<li> 🐍 <i>Trying to learn Python</i></li>
+<li> 🤐 <i>Wanna Become a Software Engineer or App Developer</i></li>
+
+## 🅵🅸🅽🅳 🅼🅴 🅾🅽 :
+<p align="left">
+  <a href="https://github.com/kumarvicku"_blank"><img src="https://img.shields.io/badge/Github-kumarvicku-green?style=for-the-badge&logo=github"></a>
+  <a href="https://www.instagram.com/v_for_vicku/" target="_blank"><img src="https://img.shields.io/badge/IG-%40v_for_vicku-red?style=for-the-badge&logo=instagram"></a>
+  <a href="https://www.facebook.com/profile.php?id=100055525980457" target="_blank"><img src="https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=facebook"></a>
+</p>
 
 <!---
  is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
