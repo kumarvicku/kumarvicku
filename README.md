@@ -1,7 +1,7 @@
 ![Capture](https://user-images.githubusercontent.com/84949946/149785526-5a5fec37-dc58-49db-8883-ada14f0a9cd1.jpg)
 
 
-<pre><h1 align="center">🅷🅸 🆅🅸🆂🅸🆃🅾🆁 , 🅸🆃'🆂 🅺🆄🅼🅰🆁 🆅🅸🅲🅺🆄!
+<pre><h1 align="center">🅷🅸 🆅🅸🆂🅸🆃🅾🆁,🅸🆃'🆂 🅺🆄🅼🅰🆁 🆅🅸🅲🅺🆄!
                               <sub><b><i>💻 A Student but passionate in programming.</i></b></h1></sub></pre>
  
 <h2 align="center"><u>My Github Stats</u></h2>
