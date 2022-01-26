@@ -3,6 +3,9 @@
 
 <pre><h1 align="center">🅷🅸 🆅🅸🆂🅸🆃🅾🆁,🅸🆃'🆂 🅺🆄🅼🅰🆁 🆅🅸🅲🅺🆄!
                               <sub><b><i>💻 A Student but passionate in programming.</i></b></h1></sub></pre>
+<p align="center">   <strong><a href="https://tryhackme.com/p/Kumarvicku">TryHackMe</a></strong> 
+
+<p align="center"><a href="https://tryhackme.com/p/Kumarvicku"><img src="https://tryhackme-badges.s3.amazonaws.com/Kumarvicku.png" alt="TryHackMe"></a>
  
 <h2 align="center"><u>My Github Stats</u></h2>
 <p align="center">
