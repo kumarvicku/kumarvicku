@@ -2,13 +2,16 @@
 
 
 <pre><h1 align="center">🅷🅸 🆅🅸🆂🅸🆃🅾🆁,🅸🆃'🆂 🅺🆄🅼🅰🆁 🆅🅸🅲🅺🆄!
-                              <sub><b><i>💻 A Student but passionate in programming.</i></b></h1></sub></pre>
+                            <sub><b><i>💻 A Student but passionate in programming.</i></b></h1></sub></pre>
 <p align="center">   <strong><a href="https://tryhackme.com/p/Kumarvicku">TryHackMe</a></strong> 
 
 <p align="center"><a href="https://tryhackme.com/p/Kumarvicku"><img src="https://tryhackme-badges.s3.amazonaws.com/Kumarvicku.png" alt="TryHackMe"></a></p>
 
+![doggy](https://user-images.githubusercontent.com/84949946/151159343-362c53b0-c54a-40fc-a804-e7e77c8729c3.gif)
 
 <h2 align="center"><u>My Github Stats</u></h2>
+
+
 <p align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kumarvicku&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">	
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarvicku&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite&langs_count=10&exclude_repo=kasweb,supremeFolio">
