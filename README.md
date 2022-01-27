@@ -1,4 +1,6 @@
-![Capture](https://user-images.githubusercontent.com/84949946/149785526-5a5fec37-dc58-49db-8883-ada14f0a9cd1.jpg)
+![84949946](https://user-images.githubusercontent.com/84949946/151274600-7c5d68c2-a515-4318-b7b2-3a0860469735.jpg)
+
+
 
 
 <pre><h1 align="center">🅷🅸 🆅🅸🆂🅸🆃🅾🆁,🅸🆃'🆂 🅺🆄🅼🅰🆁 🆅🅸🅲🅺🆄!
